@@ -62,7 +62,7 @@ map {1: 2, 2: 2}, max= 2, index = 0 if we use condition: max <= current number's
 answer = arr[index] = arr[0] = 1
 */
 
-// Solution
+// SOLUTION
 
 #include <iostream>
 #include <unordered_map>
